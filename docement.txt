@@ -1,0 +1,32 @@
+main ---> new branch 
+code ----> code (new branch)
+
+
+changes or experiment in new branch 
+git merge (form switching to main) 
+
+
+GitHub 
+we have raise  a  PR(Pull Request)
+
+merge the new branch 
+
+
+conflicts:
+when the local and remote have different content
+
+git pull 
+
+conflict message 
+nano file_name 
+code file_name  (vs code)
+
+
+git add .
+git commit -m ""
+git push
+
+
+
+
+
